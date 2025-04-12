@@ -1,6 +1,8 @@
 /*
 Project: Voltair.ai Firmware/Embedded Engineer Homework (Option A)  DC Motor Control
 Author: Ahmed Murtata Qureshi
+Git: https://github.com/ForTheLoop/VoltAirHomework.git 
+Demo: https://drive.google.com/drive/folders/1PDjN1kMtctyUm38Qicdr28if1JNoRU5d?usp=drive_link
 
 Summary:- This project is to demonstrate motor speed control using PID control when a set point is set. 
 The project uses arduino R4 as main controller, A L298 H Bridge driver,  74HC14D Encoder to measure RPM and 6V DC motor

@@ -1,6 +1,8 @@
 /*
 Project: Voltair.ai Firmware/Embedded Engineer Homework (Option B)  Data Collection and transmition
 Author: Ahmed Murtata Qureshi
+Git: https://github.com/ForTheLoop/VoltAirHomework.git 
+Demo: https://drive.google.com/drive/folders/1joZnx5whSquUPZxLYTmnA-b2azhUj22q?usp=drive_link
 
 Summary:- This project is to demonstrate data collection from 2 types of sensors(Analog and Digital), 
 analysing that data to extract useful information and then transmitting it.  The system is the sensor controller 
